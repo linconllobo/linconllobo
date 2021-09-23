@@ -1,8 +1,8 @@
 ### Hey! Welcome to my profile! How is it going? 👋😄
 
-- 👨‍🎓 I currently study mechatronics engineering at IFCE.
+- 👨‍🎓 I'm currently studying mechatronics engineering at IFCE.
 - 💻 Node, ReactJS, React Native, Typescript.
-- Learning is continuos and there will always be a level 
+- 📚 Learning is continuos and there will always be a level 
 <!--
 **linconllobo/linconllobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
